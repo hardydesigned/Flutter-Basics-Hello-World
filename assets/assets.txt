@@ -1,0 +1,6 @@
+Im Ordner assets sind alle möglichen Zusatzinhalte, zB Bilder oder Schriftarten
+
+Diese muss ich dann in der pubspec.yaml hinzufügen:
+In der Datei unter assets, den images Ordner einbinden, um alle Bilder im Code verwenden zu können
+  assets:
+     - assets/images

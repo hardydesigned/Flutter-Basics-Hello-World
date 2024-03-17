@@ -1,0 +1,12 @@
+In den Ordner presentation kommen alle Dateien, aller Code der für das UI ist
+
+Jede Seite ist dabei eine eigene Datei, somit ein Widget (mit vielen Unterwidgets)
+
+Alles was mit der UI zu tun hat, ist ein Widget
+Man packt in einer App sozusagen ganz viele Widgets auf bzw. ineinander, bis sie das gewünschte Aussehen ergeben
+So gibt es ein Center Widget, das die Widgets darin zentriert, ein Container Widget um mehrere Elemente,
+zB Text-Widgets darin aufzunehmen
+
+Dadurch kann das alles sehr verschachtelt werden, daher:
+- Clean Architecture
+- In der Main nur der Standard Code

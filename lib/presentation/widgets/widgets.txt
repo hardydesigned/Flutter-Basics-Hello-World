@@ -1,0 +1,1 @@
+In widgets werden einzelen Widgets für die Seiten definiert
